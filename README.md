@@ -23,6 +23,8 @@ A tradução do Recoll começou sem pretensão de torná-la pública, até mesmo
 
 # Dicas
 
+## Configurações básicas
+
 ## Melhorando a resolução do Recoll
 
 Se Recoll ficar com botões feios na resolução que usa é possível resolver escolhendo uma resolução apenas para ele. Se você utiliza o KDE Plamas use execute o Recoll da seguinte forma:
