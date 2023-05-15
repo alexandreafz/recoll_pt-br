@@ -19,7 +19,7 @@ A tradução do Recoll começou sem pretensão de torná-la pública, até mesmo
 
 6. Para a tradução funcionar é preciso colocar o arquivo traduzido, no caso recoll_pt.qm, dentro do diretório /usr/share/recoll/translations/.
 
-7. Sugestão, deixe o arquivo recoll_pt.qm dentro da pasta de configuração do recoll em sua home, no caso /home/usuario/.recoll e crie um link simbólico dentro do diretório /usr/share/recoll/translations/ para ele.
+7. Sugestão, deixe o arquivo recoll_pt.qm dentro da pasta de configuração do recoll em sua home, no caso ~/.recoll e crie um link simbólico (sudo ln -s ~/.recoll/recoll_pt.qm /usr/share/recoll/translations/recoll_pt.qm) dentro do diretório /usr/share/recoll/translations/ para ele.
 
 # Dicas
 
@@ -50,7 +50,7 @@ Faça o seguinte:
 
 3. Logo abaixo, no campo "linguagem Aspell" coloque pt_BR, clique no botão "OK" e saia do Recoll.
 
-4. Abra o arquivo recoll.conf que fica na pasta .recoll em sua home (/home/usuario/.recoll).
+4. Abra o arquivo recoll.conf que fica na pasta .recoll em sua home (~/.recoll).
 
 5. Acrescente no arquivo: aspellLanguage = pt_BR
 
@@ -58,7 +58,7 @@ Faça o seguinte:
 
 7. Atualize seus índices, "aquivo" e "atualizar indice". Veja se o problema foi resolvido.
 
-8. Um arquivo de nome aspdict.pt_BR.rws precisa ter cido criado na pasta de configurações do recoll (/home/usuario/.recoll).
+8. Um arquivo de nome aspdict.pt_BR.rws será criado na pasta de configurações do recoll (~/.recoll).
 
 ## Melhorando a aprência dos resultados
 
