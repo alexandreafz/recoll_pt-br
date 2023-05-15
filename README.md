@@ -1,5 +1,5 @@
 # recollpt-br
-Tradução do Recoll, aplicativo desktop para pesquisa (indexador) de textos (.txt, .doc, .pdf...)
+Tradução do Recoll, aplicativo desktop para pesquisa (indexador) de textos (.txt, .pdf, .odt, .ods, .csv, .xlsm, .doc, .docx...)
 
 O Recoll (www.recoll.org) é baseado no Xapian (www.xapian.org), para a qual fornece uma poderosa camada de extração de texto e uma interface gráfica Qt completa, mas fácil de usar.
 
