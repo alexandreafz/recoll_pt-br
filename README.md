@@ -19,7 +19,7 @@ A tradução do Recoll começou sem pretensão de torná-la pública, até mesmo
 
 6. Para a tradução funcionar é preciso colocar o arquivo traduzido, no caso recoll_pt.qm, dentro do diretório /usr/share/recoll/translations/.
 
-7. Sugestão, deixe o arquivo recoll_pt.qm dentro da pasta de configuração do recoll em sua home, no caso ~/.recoll e crie um link simbólico dentro do diretório /usr/share/recoll/translations/ para ele.
+7. Sugestão, deixe o arquivo recoll_pt.qm dentro da pasta de configuração do recoll em sua home, no caso /home/usuario/.recoll e crie um link simbólico dentro do diretório /usr/share/recoll/translations/ para ele.
 
 # Dicas
 
