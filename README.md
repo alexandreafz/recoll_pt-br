@@ -64,6 +64,7 @@ Faça o seguinte:
 
 ## Melhorando a aprência dos resultados
 
+## OCR (reconhecimento óptico de caracteres) e índices múltiplos
 
 
 
