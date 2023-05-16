@@ -235,7 +235,7 @@
     </message>
     <message>
         <source>Find</source>
-        <translation>Buscar</translation>
+        <translation type="unfinished">Buscar</translation>
     </message>
     <message>
         <source>From</source>
