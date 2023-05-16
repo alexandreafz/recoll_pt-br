@@ -370,87 +370,87 @@
     <name>uiPrefsDialogBase</name>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Aceptar</translation>
+        <translation type="unfinished">&amp;Aceptar</translation>
     </message>
     <message>
         <source>&lt;BR&gt;</source>
-        <translation>&lt;BR&gt;</translation>
+        <translation type="unfinished">&lt;BR&gt;</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation>Menú</translation>
+        <translation type="unfinished">Menú</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation>Misc</translation>
+        <translation type="unfinished">Misc</translation>
     </message>
     <message>
         <source>Start with advanced search dialog open.</source>
-        <translation>Iniciar con la ventana de búsqueda avanzada abierta.</translation>
+        <translation type="unfinished">Iniciar con la ventana de búsqueda avanzada abierta.</translation>
     </message>
     <message>
         <source>&lt;PRE&gt;</source>
-        <translation>&lt;PRE&gt;</translation>
+        <translation type="unfinished">&lt;PRE&gt;</translation>
     </message>
     <message>
         <source>Activate links in preview.</source>
-        <translation>Activar enlaces en vista previa.</translation>
+        <translation type="unfinished">Activar enlaces en vista previa.</translation>
     </message>
     <message>
         <source>Remove selected</source>
-        <translation>Eliminar selección</translation>
+        <translation type="unfinished">Eliminar selección</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Restaurar</translation>
+        <translation type="unfinished">Restaurar</translation>
     </message>
     <message>
         <source>Paths translations</source>
-        <translation>Rutas de traducciones</translation>
+        <translation type="unfinished">Rutas de traducciones</translation>
     </message>
     <message>
         <source>Discard changes</source>
-        <translation>Descartar cambios</translation>
+        <translation type="unfinished">Descartar cambios</translation>
     </message>
     <message>
         <source>Plain text to HTML line style</source>
-        <translation>Texto común a estilo de línea HTML</translation>
+        <translation type="unfinished">Texto común a estilo de línea HTML</translation>
     </message>
     <message>
         <source>Apply changes</source>
-        <translation>Aplicar cambios</translation>
+        <translation type="unfinished">Aplicar cambios</translation>
     </message>
     <message>
         <source>Document filter choice style:</source>
-        <translation>Estilo de selección de filtro de documentos:</translation>
+        <translation type="unfinished">Estilo de selección de filtro de documentos:</translation>
     </message>
     <message>
         <source>Recoll - User Preferences</source>
-        <translation>Recoll - Preferencias de usuario</translation>
+        <translation type="unfinished">Recoll - Preferencias de usuario</translation>
     </message>
     <message>
         <source>Number of entries in a result page</source>
-        <translation>Número de elementos en la página de resultados</translation>
+        <translation type="unfinished">Número de elementos en la página de resultados</translation>
     </message>
     <message>
         <source>Show warning when opening temporary file.</source>
-        <translation>Mostrar advertencia al abrir el archivo temporal.</translation>
+        <translation type="unfinished">Mostrar advertencia al abrir el archivo temporal.</translation>
     </message>
     <message>
         <source>User interface</source>
-        <translation>Interfaz de usuario</translation>
+        <translation type="unfinished">Interfaz de usuario</translation>
     </message>
     <message>
         <source>Reset shortcuts defaults</source>
-        <translation>Restablecer accesos directos por defecto</translation>
+        <translation type="unfinished">Restablecer accesos directos por defecto</translation>
     </message>
     <message>
         <source>Resets the style sheet to default</source>
-        <translation>Restablecer la hoja de estilo al valor por defecto</translation>
+        <translation type="unfinished">Restablecer la hoja de estilo al valor por defecto</translation>
     </message>
     <message>
         <source>Dynamically build abstracts</source>
-        <translation>Construir resúmenes dinámicamente</translation>
+        <translation type="unfinished">Construir resúmenes dinámicamente</translation>
     </message>
     <message>
         <source>Result List</source>
@@ -458,45 +458,45 @@
     </message>
     <message>
         <source>Maximum text size highlighted for preview (kilobytes)</source>
-        <translation>Tamaño máximo de texto resaltado para la previsualización (kilobytes)</translation>
+        <translation type="unfinished">Tamaño máximo de texto resaltado para la previsualización (kilobytes)</translation>
     </message>
     <message>
         <source>Synthetic abstract size (characters)</source>
-        <translation>Tamaño del resumen sintetizado (caracteres)</translation>
+        <translation type="unfinished">Tamaño del resumen sintetizado (caracteres)</translation>
     </message>
     <message>
         <source>Frequency percentage threshold over which we do not use terms inside autophrase. 
 Frequent terms are a major performance issue with phrases. 
 Skipped terms augment the phrase slack, and reduce the autophrase efficiency.
 The default value is 2 (percent). </source>
-        <translation>Umbral de porcentaje de frecuencia sobre el cuál no utilizamos términos dentro de la autofrase.
+        <translation type="unfinished">Umbral de porcentaje de frecuencia sobre el cuál no utilizamos términos dentro de la autofrase.
 Los términos frequentes son un problema importante de desempeño con las frases.
 Términos omitidos aumenta la holgura de la frase, y reducen la eficiencia de la autofrase.
 El valor por defecto es 2 (por ciento).</translation>
     </message>
     <message>
         <source>Hide duplicate results.</source>
-        <translation>Esconder resultados duplicados.</translation>
+        <translation type="unfinished">Esconder resultados duplicados.</translation>
     </message>
     <message>
         <source>Result Table</source>
-        <translation>Tabla de Resultados</translation>
+        <translation type="unfinished">Tabla de Resultados</translation>
     </message>
     <message>
         <source>Deactivate All</source>
-        <translation>Desactivar Todos</translation>
+        <translation type="unfinished">Desactivar Todos</translation>
     </message>
     <message>
         <source>Edit result paragraph format string</source>
-        <translation>Editar texto de formato para el párrafo de resultados</translation>
+        <translation type="unfinished">Editar texto de formato para el párrafo de resultados</translation>
     </message>
     <message>
         <source>Opens a dialog to select the Snippets window CSS style sheet file</source>
-        <translation>Abre una ventana de diálogo para el archivo de estilos CSS de la ventana de fragmentos</translation>
+        <translation type="unfinished">Abre una ventana de diálogo para el archivo de estilos CSS de la ventana de fragmentos</translation>
     </message>
     <message>
         <source>Choose</source>
-        <translation type="unfinished">Escolher</translation>
+        <translation>Escolher</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -508,15 +508,15 @@ El valor por defecto es 2 (por ciento).</translation>
     </message>
     <message>
         <source>Resets the result list font to the system default</source>
-        <translation>Restaurar el tipo de letra de la lista de resultados al valor por defecto del sistema</translation>
+        <translation type="unfinished">Restaurar el tipo de letra de la lista de resultados al valor por defecto del sistema</translation>
     </message>
     <message>
         <source>Snippets window CSS file</source>
-        <translation>Archivo CSS para la ventana de fragmentos</translation>
+        <translation type="unfinished">Archivo CSS para la ventana de fragmentos</translation>
     </message>
     <message>
         <source>User style to apply to the snippets window.&lt;br&gt; Note: the result page header insert is also included in the snippets window header.</source>
-        <translation>Estilo de usuario para aplicar a la ventana de fragmentos.&lt;br&gt; Nota: la inserción del encabezado de página de resultado también está incluida en el encabezado de la ventana de fragmentos.</translation>
+        <translation type="unfinished">Estilo de usuario para aplicar a la ventana de fragmentos.&lt;br&gt; Nota: la inserción del encabezado de página de resultado también está incluida en el encabezado de la ventana de fragmentos.</translation>
     </message>
     <message>
         <source>Stemming language</source>
@@ -524,11 +524,11 @@ El valor por defecto es 2 (por ciento).</translation>
     </message>
     <message>
         <source>Suppress all beeps.</source>
-        <translation>Suprimir todos los pitidos.</translation>
+        <translation type="unfinished">Suprimir todos los pitidos.</translation>
     </message>
     <message>
         <source>Result list font</source>
-        <translation>Tipo de letra para lista de resultados</translation>
+        <translation type="unfinished">Tipo de letra para lista de resultados</translation>
     </message>
     <message>
         <source>Add index</source>
@@ -536,73 +536,73 @@ El valor por defecto es 2 (por ciento).</translation>
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation>Atajos</translation>
+        <translation type="unfinished">Atajos</translation>
     </message>
     <message>
         <source>Hide result table header.</source>
-        <translation>Ocultar la cabecera de tabla de resultados.</translation>
+        <translation type="unfinished">Ocultar la cabecera de tabla de resultados.</translation>
     </message>
     <message>
         <source>Query terms highlighting in results. &lt;br&gt;Maybe try something like &quot;color:red;background:yellow&quot; for something more lively than the default blue...</source>
-        <translation>Resaltado de términos de consulta en resultados. &lt;br&gt;Tal vez intente algo como &quot;color:red;fondo:amarillo&quot; para algo más animado que el azul predeterminado...</translation>
+        <translation type="unfinished">Resaltado de términos de consulta en resultados. &lt;br&gt;Tal vez intente algo como &quot;color:red;fondo:amarillo&quot; para algo más animado que el azul predeterminado...</translation>
     </message>
     <message>
         <source>&lt;PRE&gt; + wrap</source>
-        <translation>&lt;PRE&gt; + envoltura</translation>
+        <translation type="unfinished">&lt;PRE&gt; + envoltura</translation>
     </message>
     <message>
         <source>Show result table row headers.</source>
-        <translation>Mostrar las cabeceras de fila de la tabla de resultados.</translation>
+        <translation type="unfinished">Mostrar las cabeceras de fila de la tabla de resultados.</translation>
     </message>
     <message>
         <source>Automatically add phrase to simple searches</source>
-        <translation>Automáticamente añadir frases a búsquedas simples</translation>
+        <translation type="unfinished">Automáticamente añadir frases a búsquedas simples</translation>
     </message>
     <message>
         <source>Do we try to build abstracts for result list entries by using the context of query terms ? 
 May be slow for big documents.</source>
-        <translation>¿Intentar construir resúmenes para elementos en la lista de resultados utilizando el contexto de los términos de búsqueda?
+        <translation type="unfinished">¿Intentar construir resúmenes para elementos en la lista de resultados utilizando el contexto de los términos de búsqueda?
 Puede ser lento para documentos grandes.</translation>
     </message>
     <message>
         <source>Toggle selected</source>
-        <translation>Cambiar selección</translation>
+        <translation type="unfinished">Cambiar selección</translation>
     </message>
     <message>
         <source>Make links inside the preview window clickable, and start an external browser when they are clicked.</source>
-        <translation>Haga clic en los enlaces dentro de la ventana de vista previa e inicie un navegador externo cuando se haga clic en ellos.</translation>
+        <translation type="unfinished">Haga clic en los enlaces dentro de la ventana de vista previa e inicie un navegador externo cuando se haga clic en ellos.</translation>
     </message>
     <message>
         <source>Close to tray instead of exiting.</source>
-        <translation>Cerrar la bandeja en lugar de salir.</translation>
+        <translation type="unfinished">Cerrar la bandeja en lugar de salir.</translation>
     </message>
     <message>
         <source>Prefer Html to plain text for preview.</source>
-        <translation>Preferir HTML a texto simple para vista previa.</translation>
+        <translation type="unfinished">Preferir HTML a texto simple para vista previa.</translation>
     </message>
     <message>
         <source>Start with simple search mode: </source>
-        <translation>Empezar con el modo de búsqueda simple: </translation>
+        <translation type="unfinished">Empezar con el modo de búsqueda simple: </translation>
     </message>
     <message>
         <source>Synthetic abstract context words</source>
-        <translation>Palabras de contexto del resumen sintetizado</translation>
+        <translation type="unfinished">Palabras de contexto del resumen sintetizado</translation>
     </message>
     <message>
         <source>Resets the Snippets window style</source>
-        <translation>Establece el valor por defecto para el estilo de la ventana de Fragmentos</translation>
+        <translation type="unfinished">Establece el valor por defecto para el estilo de la ventana de Fragmentos</translation>
     </message>
     <message>
         <source>Toolbar Combobox</source>
-        <translation>Combobox barra de herramientas</translation>
+        <translation type="unfinished">Combobox barra de herramientas</translation>
     </message>
     <message>
         <source>Dark mode</source>
-        <translation>Modo oscuro</translation>
+        <translation type="unfinished">Modo oscuro</translation>
     </message>
     <message>
         <source>&amp;Query</source>
-        <translation>&amp;Consulta</translation>
+        <translation type="unfinished">&amp;Consulta</translation>
     </message>
     <message>
         <source>Increase results text font size</source>
@@ -638,157 +638,157 @@ Puede ser lento para documentos grandes.</translation>
     </message>
     <message>
         <source>Start search on completer popup activation.</source>
-        <translation>Empezar la búsqueda al activar la ventana emergente.</translation>
+        <translation type="unfinished">Empezar la búsqueda al activar la ventana emergente.</translation>
     </message>
     <message>
         <source>Highlight CSS style for query terms</source>
-        <translation>Resaltar el estilo CSS para los términos de consulta</translation>
+        <translation type="unfinished">Resaltar el estilo CSS para los términos de consulta</translation>
     </message>
     <message>
         <source>Show system tray icon.</source>
-        <translation>Mostrar icono de la bandeja del sistema.</translation>
+        <translation type="unfinished">Mostrar icono de la bandeja del sistema.</translation>
     </message>
     <message>
         <source>The words in the list will be automatically turned to ext:xxx clauses in the query language entry.</source>
-        <translation>Las palabras en la lista serán convertidas automáticamente a cláusulas ext:xxx en el ingreso de lenguaje de consulta.</translation>
+        <translation type="unfinished">Las palabras en la lista serán convertidas automáticamente a cláusulas ext:xxx en el ingreso de lenguaje de consulta.</translation>
     </message>
     <message>
         <source>Sort snippets by page number (default: by weight).</source>
-        <translation>Ordenar fragmentos por número de página (por defecto: por peso).</translation>
+        <translation type="unfinished">Ordenar fragmentos por número de página (por defecto: por peso).</translation>
     </message>
     <message>
         <source>Do we synthetize an abstract even if the document seemed to have one?</source>
-        <translation>¿Sintetizar un resumen aunque el documento parece tener uno?</translation>
+        <translation type="unfinished">¿Sintetizar un resumen aunque el documento parece tener uno?</translation>
     </message>
     <message>
         <source>Remember sort activation state.</source>
-        <translation>Recordar estado de activación de ordenamiento.</translation>
+        <translation type="unfinished">Recordar estado de activación de ordenamiento.</translation>
     </message>
     <message>
         <source>Autophrase term frequency threshold percentage</source>
-        <translation>Porcentaje del umbral de frecuencia de términos de autofrase</translation>
+        <translation type="unfinished">Porcentaje del umbral de frecuencia de términos de autofrase</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Cancelar</translation>
+        <translation type="unfinished">&amp;Cancelar</translation>
     </message>
     <message>
         <source>Maximum size of search history (0: disable, -1: unlimited):</source>
-        <translation>Tamaño máximo del historial de búsqueda (0: deshabilitable, -1: ilimitado):</translation>
+        <translation type="unfinished">Tamaño máximo del historial de búsqueda (0: deshabilitable, -1: ilimitado):</translation>
     </message>
     <message>
         <source>Generate desktop notifications.</source>
-        <translation>Generar notificaciones de escritorio.</translation>
+        <translation type="unfinished">Generar notificaciones de escritorio.</translation>
     </message>
     <message>
         <source>Simple search type</source>
-        <translation>Tipo de búsqueda simple</translation>
+        <translation type="unfinished">Tipo de búsqueda simple</translation>
     </message>
     <message>
         <source>Use F1 to  access the manual</source>
-        <translation>Usar F1 para acceder al manual</translation>
+        <translation type="unfinished">Usar F1 para acceder al manual</translation>
     </message>
     <message>
         <source>Choose editor applications</source>
-        <translation>Escoger aplicaciones para edición</translation>
+        <translation type="unfinished">Escoger aplicaciones para edición</translation>
     </message>
     <message>
         <source>Lines in PRE text are not folded. Using BR loses some indentation. PRE + Wrap style may be what you want.</source>
-        <translation>Las líneas en texto PRE no son dobladas. Al usar BR se pierde indentación. El estilo PRE + Wrap probablemente es lo que está buscando.</translation>
+        <translation type="unfinished">Las líneas en texto PRE no son dobladas. Al usar BR se pierde indentación. El estilo PRE + Wrap probablemente es lo que está buscando.</translation>
     </message>
     <message>
         <source>Replace abstracts from documents</source>
-        <translation>Reemplazar resúmenes de los documentos</translation>
+        <translation type="unfinished">Reemplazar resúmenes de los documentos</translation>
     </message>
     <message>
         <source>Query language magic file name suffixes.</source>
-        <translation>Sufijos para nombres mágicos de archivos en el lenguaje de consulta.</translation>
+        <translation type="unfinished">Sufijos para nombres mágicos de archivos en el lenguaje de consulta.</translation>
     </message>
     <message>
         <source>Application Qt style sheet</source>
-        <translation>Hoja de estilo Qt de aplicación</translation>
+        <translation type="unfinished">Hoja de estilo Qt de aplicación</translation>
     </message>
     <message>
         <source>Buttons Panel</source>
-        <translation>Panel de botones</translation>
+        <translation type="unfinished">Panel de botones</translation>
     </message>
     <message>
         <source>Activate All</source>
-        <translation>Activar Todos</translation>
+        <translation type="unfinished">Activar Todos</translation>
     </message>
     <message>
         <source>If checked, results with the same content under different names will only be shown once.</source>
-        <translation>Si está marcado, los resultados con el mismo contenido bajo nombres diferentes serán mostrados solo una vez.</translation>
+        <translation type="unfinished">Si está marcado, los resultados con el mismo contenido bajo nombres diferentes serán mostrados solo una vez.</translation>
     </message>
     <message>
         <source>A search for [rolling stones] (2 terms) will be changed to [rolling or stones or (rolling phrase 2 stones)]. 
 This should give higher precedence to the results where the search terms appear exactly as entered.</source>
-        <translation>Una búsqueda por [rolling stones] (2 términos) será cambiada por [rolling or stones or (rolling phrase 2 stones)].
+        <translation type="unfinished">Una búsqueda por [rolling stones] (2 términos) será cambiada por [rolling or stones or (rolling phrase 2 stones)].
 Esto dará mayor precedencia a los resultados en los cuales los términos de búsqueda aparecen exactamente como fueron escritos.</translation>
     </message>
     <message>
         <source>Date format (strftime(3))</source>
-        <translation>Formato de fecha (strftime(3))</translation>
+        <translation type="unfinished">Formato de fecha (strftime(3))</translation>
     </message>
     <message>
         <source>Opens a dialog to select the result list font</source>
-        <translation>Abre una ventana para seleccionar el tipo de letra para la lista de resultados</translation>
+        <translation type="unfinished">Abre una ventana para seleccionar el tipo de letra para la lista de resultados</translation>
     </message>
     <message>
         <source>Click to add another index directory to the list. You can select either a Recoll configuration directory or a Xapian index.</source>
-        <translation>Haga clic para agregar otro directorio de índice a la lista. Puede seleccionar un directorio de configuración de Recoll o un índice Xapian.</translation>
+        <translation type="unfinished">Haga clic para agregar otro directorio de índice a la lista. Puede seleccionar un directorio de configuración de Recoll o un índice Xapian.</translation>
     </message>
     <message>
         <source>Display a Snippets link even if the document has no pages (needs restart).</source>
-        <translation>Mostrar un enlace de Snippets incluso si el documento no tiene páginas (necesita reiniciar).</translation>
+        <translation type="unfinished">Mostrar un enlace de Snippets incluso si el documento no tiene páginas (necesita reiniciar).</translation>
     </message>
     <message>
         <source>Helvetica-10</source>
-        <translation>Helvetica-10</translation>
+        <translation type="unfinished">Helvetica-10</translation>
     </message>
     <message>
         <source>Texts over this size will not be highlighted in preview (too slow).</source>
-        <translation>Textos más allá de este tamaño no serán resaltados (muy lento).</translation>
+        <translation type="unfinished">Textos más allá de este tamaño no serán resaltados (muy lento).</translation>
     </message>
     <message>
         <source>Edit result page html header insert</source>
-        <translation>Editar encabezado html insertado en página de resultados</translation>
+        <translation type="unfinished">Editar encabezado html insertado en página de resultados</translation>
     </message>
     <message>
         <source>Remove from list. This has no effect on the disk index.</source>
-        <translation>Eliminar de la lista. Esto no tiene efecto en el índice en disco.</translation>
+        <translation type="unfinished">Eliminar de la lista. Esto no tiene efecto en el índice en disco.</translation>
     </message>
     <message>
         <source>Synonyms file</source>
-        <translation>Archivo de sinónimos</translation>
+        <translation type="unfinished">Archivo de sinónimos</translation>
     </message>
     <message>
         <source>Maximum number of snippets displayed in the snippets window</source>
-        <translation>Número máximo de fragmentos mostrados en la ventana de fragmentos</translation>
+        <translation type="unfinished">Número máximo de fragmentos mostrados en la ventana de fragmentos</translation>
     </message>
     <message>
         <source>Set path translations for the selected index or for the main one if no selection exists.</source>
-        <translation>Establece traducciones de rutas para el índice seleccionado o para el principal si no existe selección.</translation>
+        <translation type="unfinished">Establece traducciones de rutas para el índice seleccionado o para el principal si no existe selección.</translation>
     </message>
     <message>
         <source>Disable Qt autocompletion in search entry.</source>
-        <translation>Deshabilitar autocompletar de Qt en la entrada de búsqueda.</translation>
+        <translation type="unfinished">Deshabilitar autocompletar de Qt en la entrada de búsqueda.</translation>
     </message>
     <message>
         <source>Abstract snippet separator</source>
-        <translation>Separador de fragmentos de resumen</translation>
+        <translation type="unfinished">Separador de fragmentos de resumen</translation>
     </message>
     <message>
         <source>Limit the size of the search history. Use 0 to disable, -1 for unlimited.</source>
-        <translation>Limita el tamaño del historial de búsqueda. Usa 0 para desactivar, -1 para ilimitado.</translation>
+        <translation type="unfinished">Limita el tamaño del historial de búsqueda. Usa 0 para desactivar, -1 para ilimitado.</translation>
     </message>
     <message>
         <source>Search parameters</source>
-        <translation>Parámetros de búsqueda</translation>
+        <translation type="unfinished">Parámetros de búsqueda</translation>
     </message>
     <message>
         <source>Decide if document filters are shown as radio buttons, toolbar combobox, or menu.</source>
-        <translation>Decide si los filtros de documentos se muestran como botones de radio, combobox, barra de herramientas o menú.</translation>
+        <translation type="unfinished">Decide si los filtros de documentos se muestran como botones de radio, combobox, barra de herramientas o menú.</translation>
     </message>
 </context>
 <context>
