@@ -15,7 +15,7 @@ A tradução do Recoll começou sem pretensão de torná-la pública, até mesmo
 
 4. Os arquivos possuem o nome recoll_XX.qm, onde XX é o idioma do arquivo e, no caso para o idioma português, o nome precisa ser recoll_pt.qm.
 
-5. Quando um aquivo qm é aberto e depois salvo no Qt Linguist, um arquivo XML com extensão TS é criado, para salvar novamente no formato QM é preciso no menu clicar em “file” e depois “release” ou “release as”. O Qt Linguist, ao menos no Arch, não está em português.
+5. Quando um aquivo qm é aberto e depois salvo no Qt Linguist, um arquivo XML com extensão TS é criado, para salvar novamente no formato QM é preciso no menu clicar em “file” e depois “release” ou “release as”. O Qt Linguist, ao menos no Arch, não está em português. Usei como base o "arquivo de tradução" em espanhol (recoll_es.qm).
 
 6. Para a tradução funcionar é preciso colocar o arquivo traduzido, no caso recoll_pt.qm, dentro do diretório /usr/share/recoll/translations/.
 
