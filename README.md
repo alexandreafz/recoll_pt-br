@@ -15,9 +15,9 @@ A tradução do Recoll começou sem pretensão de torná-la pública, na maior p
 
 4. Os arquivos possuem o nome recoll_XX.qm, onde XX é o idioma do arquivo e, no caso para o idioma português, o nome precisa ser recoll_pt.qm.
 
-5. Quando um aquivo qm é aberto e depois salvo no Qt Linguist, um arquivo XML com extensão TS é criado, para salvar novamente no formato QM é preciso no menu clicar em “file” e depois “release” ou “release as”. O Qt Linguist, ao menos no Arch, não está em português. Usei como base o "arquivo de tradução" em espanhol (recoll_es.qm).
+5. Quando um aquivo qm é aberto e depois salvo no Qt Linguist, um arquivo XML com extensão TS é criado. Para salvar novamente no formato QM é preciso no menu clicar em “file” e depois “release” ou “release as”. O Qt Linguist, ao menos no Arch, não está em português. Usei como base o "arquivo de tradução" em espanhol (recoll_es.qm).
 
-6. Para a tradução funcionar é preciso colocar o arquivo traduzido, no caso recoll_pt.qm, dentro do diretório /usr/share/recoll/translations/.
+6. Para a tradução funcionar é preciso colocar o arquivo traduzido, no caso o recoll_pt.qm, dentro do diretório /usr/share/recoll/translations/.
 
 7. Sugestão, deixe o arquivo recoll_pt.qm dentro da pasta de configuração do recoll em sua home, no caso ~/.recoll e crie um link simbólico (sudo ln -s ~/.recoll/recoll_pt.qm /usr/share/recoll/translations/recoll_pt.qm) dentro do diretório /usr/share/recoll/translations/ para ele.
 
@@ -28,15 +28,15 @@ Ainda vou colocar...
 
 ## Melhorando a resolução do Recoll
 
-Se Recoll ficar com botões feios na resolução que usa é possível resolver escolhendo uma resolução apenas para ele. Se você utiliza o KDE Plamas use execute o Recoll da seguinte forma:
+Se Recoll ficar com botões feios na escala  que usa, é possível resolver escolhendo uma escala apenas para ele. Se você utiliza o KDE Plamas execute o Recoll da seguinte forma:
 
 env QT_SCALE_FACTOR=0.8 recoll
 
-Onde tem 0.8 é a resolução que estou usando para o Recoll, você pode escolher outra, 0.9, 1.0, 1.25..
+Onde 0.8 é a escala que estou usando para o Recoll, você pode escolher outra, 0.9, 1.0, 1.25..
 
 Se estiver usando o Gnome ou alguma outra DE ou WM que usa GTK3, você deve utilizar (não testei):
 
-env GDK_DPI_SCALE=1.25
+env GDK_DPI_SCALE=0.8 recoll
 
 ## Resolvendo o problema "aspell dictionary creation command failed"
 
