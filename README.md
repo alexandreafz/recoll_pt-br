@@ -24,6 +24,7 @@ A tradução do Recoll começou sem pretensão de torná-la pública, até mesmo
 # Dicas
 
 ## Configurações básicas
+Ainda vou colocar...
 
 ## Melhorando a resolução do Recoll
 
@@ -63,8 +64,10 @@ Faça o seguinte:
 8. Um arquivo de nome aspdict.pt_BR.rws será criado na pasta de configurações do recoll (~/.recoll).
 
 ## Melhorando a aprência dos resultados
+Ainda vou colocar...
 
 ## OCR (reconhecimento óptico de caracteres) e índices múltiplos
+Ainda vou colocar...
 
 
 
