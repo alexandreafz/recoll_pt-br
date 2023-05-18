@@ -69,5 +69,7 @@ Ainda vou colocar...
 ## OCR (reconhecimento óptico de caracteres) e índices múltiplos
 Ainda vou colocar...
 
+.
+
 
 
