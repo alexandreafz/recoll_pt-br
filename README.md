@@ -12,8 +12,10 @@ A tradução do Recoll começou sem pretensão de torná-la pública, na maior p
 | `recoll_pt.qm` | Tradução pronta para uso (compilada). É este que o Recoll lê. |
 | `recoll_pt.ts` | Fonte da tradução (XML), para abrir e editar no Qt Linguist. |
 | `guia-rapido-consulta-recoll.md` | [Guia rápido da linguagem de consulta do Recoll](guia-rapido-consulta-recoll.md), em português. |
+| `manual/usermanual.html` | Manual do usuário do Recoll (ajuda do F1) traduzido, com um Apêndice C a mais: dicas do campo de pesquisa, o guia rápido e exemplos de consultas. |
+| `manual/docbook-xsl.css` | Estilo do manual (o mesmo do original). |
 
-**Situação atual:** tradução completa (881 de 881 textos), testada no Recoll 1.43.0 (Debian 13).
+**Situação atual:** interface com tradução completa (881 de 881 textos), testada no Recoll 1.43.0 (Debian 13). Manual do Recoll 1.42/1.43 traduzido (1643 de 1686 trechos; os que faltam são assinaturas de funções da API e nomes de seções de arquivos de configuração, que ficam em inglês).
 
 # Instalação
 
@@ -35,6 +37,17 @@ sudo ln -sf ~/.recoll/recoll_pt.qm /usr/share/recoll/translations/recoll_pt.qm
 ```
 
 Observação: atualizações do pacote do Recoll podem substituir o arquivo em `/usr/share/recoll/translations/`. Se a tradução sumir depois de uma atualização, repita o passo 2 (ou recrie o link).
+
+## Manual (ajuda do F1)
+
+O F1 do Recoll abre `/usr/share/recoll/doc/usermanual.html`, que no Debian aponta para `/usr/share/doc/recoll/usermanual.html`. Para usar o manual traduzido, guarde o original e copie a pasta `manual` do repositório:
+
+```
+sudo cp /usr/share/doc/recoll/usermanual.html /usr/share/doc/recoll/usermanual.html.orig
+sudo cp manual/usermanual.html manual/docbook-xsl.css /usr/share/doc/recoll/
+```
+
+O caminho pode mudar conforme a distribuição; veja para onde apontam os links dentro de `/usr/share/recoll/doc`. Atualizações do pacote também gravam o manual em inglês por cima; nesse caso, copie de novo. O manual também pode ser aberto direto no navegador.
 
 # Para traduzir
 
